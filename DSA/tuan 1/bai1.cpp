@@ -64,7 +64,7 @@ void display(int a[], int start, int stop) {
 
 int main()
 {
-    int a[100], n;
+    int a[100], n;// test
     cin >> n;
     init(a, n);
     int start, stop, maxProduct;

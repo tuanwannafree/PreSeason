@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Chuong3New.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Chuong3New.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:TamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:TamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:examplePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:examplePoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Pointer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Diem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3B636C9-875E-4D13-84EB-8D9DF315A713}|Chuong3New.vcxproj|solutionrelative:Diem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.h",
+              "RelativeDocumentMoniker": "Point.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.h",
+              "RelativeToolTip": "Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:27:51.99Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.cpp",
+              "RelativeDocumentMoniker": "MyClass.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.cpp*",
+              "RelativeToolTip": "MyClass.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T02:54:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClass.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.h",
+              "RelativeDocumentMoniker": "MyClass.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\MyClass.h",
+              "RelativeToolTip": "MyClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T02:53:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T02:50:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TamGiac.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.cpp",
+              "RelativeDocumentMoniker": "TamGiac.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.cpp",
+              "RelativeToolTip": "TamGiac.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:59:50.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TamGiac.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.h",
+              "RelativeDocumentMoniker": "TamGiac.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\TamGiac.h",
+              "RelativeToolTip": "TamGiac.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:54:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "examplePoint.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.cpp",
+              "RelativeDocumentMoniker": "examplePoint.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.cpp",
+              "RelativeToolTip": "examplePoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:43:38.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "examplePoint.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.h",
+              "RelativeDocumentMoniker": "examplePoint.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\examplePoint.h",
+              "RelativeToolTip": "examplePoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:39:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.cpp",
+              "RelativeDocumentMoniker": "Point.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Point.cpp",
+              "RelativeToolTip": "Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:31:51.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pointer.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.cpp",
+              "RelativeDocumentMoniker": "Pointer.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.cpp",
+              "RelativeToolTip": "Pointer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:22:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.cpp",
+              "RelativeDocumentMoniker": "Time.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.cpp",
+              "RelativeToolTip": "Time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:18:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Time.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.h",
+              "RelativeDocumentMoniker": "Time.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Time.h",
+              "RelativeToolTip": "Time.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:14:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pointer.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.h",
+              "RelativeDocumentMoniker": "Pointer.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Pointer.h",
+              "RelativeToolTip": "Pointer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:12:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Diem.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.cpp",
+              "RelativeDocumentMoniker": "Diem.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.cpp",
+              "RelativeToolTip": "Diem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:11:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Diem.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.h",
+              "RelativeDocumentMoniker": "Diem.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Diem.h",
+              "RelativeToolTip": "Diem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T00:10:28.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chuong3New.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Chuong3New.cpp",
+              "RelativeDocumentMoniker": "Chuong3New.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\Tuan 2\\Chuong3New\\Chuong3New.cpp",
+              "RelativeToolTip": "Chuong3New.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T00:09:37.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

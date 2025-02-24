@@ -32,6 +32,18 @@ using namespace std;
 struct Point {
     float x, y;
 };
+int findMinSpace(float arr[], int n) {
+    int k;
+    float minn = 300000;
+    for(int i =0 ; i < n ;i++ ) {
+        if(minn > arr[i]) {
+            minn = arr[i];
+            k = i;
+        }
+    }
+    return k;
+}
+
 int main()
 {
 	//ios_base::sync_with_stdio(false);
@@ -47,10 +59,10 @@ int main()
     for(int i = 0; i < n; i++) {
         cin >> A[i].x >> A[i].y;
         arr[i] = sqrt(pow((A[i].x - target.x),2) + pow((A[i].y - target.y), 2));
-
     }
+    int k = findMinSpace(arr, n);
 
-
+    cout << A[k].x << " " << A[k].y;
 
 	return 0;
 }

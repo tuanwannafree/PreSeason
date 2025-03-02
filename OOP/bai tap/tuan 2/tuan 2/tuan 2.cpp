@@ -11,9 +11,16 @@ int main()
     a.Nhap();
     b.Nhap();
     c = a + b;
-   // c = a - b;
-    //c = a * b;
-    //c = a / b;
     c.display();
+    c.DinhGiaTri();
+    c = a - b;
+    c.display();
+    c.DinhGiaTri();
+    c = a * b;
+    c.display();
+    c.DinhGiaTri();
+    c = a / b;
+    c.display();
+    c.DinhGiaTri();
 
 }

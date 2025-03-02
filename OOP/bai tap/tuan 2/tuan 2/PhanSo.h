@@ -9,12 +9,12 @@ class PhanSo
 		void init(int a, int b);
 		void display();
 		void Nhap();
-		void DinhGiaTri(PhanSo a);
+		void DinhGiaTri();
 		void rutGon(PhanSo &a);
 
 		PhanSo operator + (PhanSo a);
 		PhanSo operator - (PhanSo a);
-		//PhanSo operator * (PhanSo a);
-		//PhanSo operator / (PhanSo a);
+		PhanSo operator * (PhanSo a);
+		PhanSo operator / (PhanSo a);
 };
 

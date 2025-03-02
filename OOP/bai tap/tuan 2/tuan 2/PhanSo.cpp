@@ -32,6 +32,27 @@ PhanSo PhanSo::operator - (PhanSo a) {
 	return c;
 }
 
+PhanSo PhanSo::operator * (PhanSo a) {
+	PhanSo c;
+	c.tu = tu * a.tu;
+	c.mau = mau * a.mau;
+	rutGon(c);
+	return c;
+}
+
+PhanSo PhanSo::operator / (PhanSo a) {
+	PhanSo c;
+	if (a.tu == 0) {
+		cout << "Khong the thuc hien phep chia" << endl;
+	}
+	else {
+		c.tu = tu * a.mau;
+		c.mau = mau * a.tu;
+		rutGon(c);
+		return c;
+	}
+}
+
 
 void PhanSo::init(int a, int b) {
 	this->tu = a;
@@ -45,10 +66,20 @@ void PhanSo::Nhap() {
 }
 
 void PhanSo::display() {
-	cout << tu << " " << mau << endl;
+	cout << "Gia tri phep tinh la : ";
+	if (tu == 0) cout << 0 << endl;
+	else if (mau == 1) {
+		cout << tu << endl;
+	}
+	else {
+		cout << tu << " / " << mau << endl;
+	}
+	
 }
 
-void PhanSo::DinhGiaTri(PhanSo a) {
-	int b = a.tu / a.mau;
-	cout << b;
+void PhanSo::DinhGiaTri() {
+	double b = (double)(tu) / (double)(mau);
+	cout << "Dinh gia tri la : " << b << endl;
 }
+
+

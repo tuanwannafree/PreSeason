@@ -9,6 +9,8 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
+#include <cstring>
+#include <cctype>
 #include <deque>
 #include <functional>
 #include <iostream>
@@ -35,6 +37,42 @@ struct Computerinformation {
     long double price;
 };
 
+void sortByName(vector<Computerinformation> &arr) {
+    const int ASCII_RANGE = 256;
+
+    int n = arr.size();
+
+    vector<Computerinformation> temp(n);
+
+    vector<int> cnt(ASCII_RANGE + 1, 0);
+
+    for( const auto& a : arr) {
+        char firstChar = toupper(a.name[0]);
+        cnt[firstChar + 1]++;
+    }
+
+    for(int i = 1; i < ASCII_RANGE; i++) {
+        cnt[i] += cnt[i - 1];
+    }
+
+    for(const auto& a : arr) {
+        char firstChar = toupper(a.name[0]);
+        temp[cnt[firstChar]++] = a;
+    }
+
+    arr = temp;
+}
+
+void display(vector<Computerinformation> arr) {
+    int n = arr.size();
+    for(int i = 0; i < n; i++) {
+        cout <<"Brand : " << arr[i].name << endl;
+        cout <<"Toc do chay : " << arr[i].speed << endl;
+        cout <<"Gia tien : " << arr[i].price << endl;
+	}
+
+}
+
 int main()
 {
 	//ios_base::sync_with_stdio(false);
@@ -46,19 +84,15 @@ int main()
 	cin.ignore();
 	for(int i = 0; i < n; i++) {
         Computerinformation a;
-        cin.get(a.name, 25);
+        cin.get(a.name, 100);
         cin >> a.speed;
         cin >> a.price;
         cin.ignore();
         arr.push_back(a);
 	}
 
-	for(int i = 0; i < n; i++) {
-        cout <<"Brand : " << arr[i].name << endl;
-        cout <<"Toc do chay : " << arr[i].speed << endl;
-        cout <<"Gia tien : " << arr[i].price << endl;
-
-	}
+	sortByName(arr);
+	display(arr);
 
 	return 0;
 }

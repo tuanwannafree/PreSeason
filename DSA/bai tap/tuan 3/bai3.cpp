@@ -1,34 +1,8 @@
-#include <algorithm>
-#include <bitset>
-#include <cctype>
-#include <cfloat>
-#include <climits>
-#include <cmath>
-#include <complex>
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <ctime>
-#include <cstring>
-#include <cctype>
-#include <deque>
-#include <functional>
 #include <iostream>
-#include <list>
-#include <map>
-#include <numeric>
-#include <queue>
-#include <set>
-#include <stack>
-#include <string>
-#include <utility>
-#include <unordered_map>
 #include <vector>
-#define ll long long
-#define pb push_back
-#define _for(i,a,b) for(int i = a, i < b; i++)
-#define _ford(i,a,b) for(int i = a, i > b; i--)
-#define ln endl
+#include <string>
+#include <algorithm>
+
 using namespace std;
 
 const int ASCII_RANGE = 256;
@@ -155,8 +129,6 @@ void filter(vector<Computerinformation>  arr, int p1, int p2, int s1, int s2) {
 
 int main()
 {
-	//ios_base::sync_with_stdio(false);
-    //cin.tie(NULL);
 
 vector<Computerinformation> arr = {
     {"Apple MacBook Pro", 3200, 2500.50},
@@ -179,19 +151,6 @@ vector<Computerinformation> arr = {
     {"Asus ZenBook", 3300, 1500.00},
     {"MSI Creator", 3100, 2500.00}
 };
-
-
-
-//	int n; cin >> n;
-//	cin.ignore();
-//	for(int i = 0; i < n; i++) {
-//        Computerinformation a;
-//        cin.get(a.name, 100);
-//        cin >> a.speed;
-//        cin >> a.price;
-//        cin.ignore();
-//        arr.push_back(a);
-//	}
 
 	sortByName(arr);
 	cout <<"bai a: "<< endl;

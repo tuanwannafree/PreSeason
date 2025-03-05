@@ -1,10 +1,11 @@
 #pragma once
 #include <iostream>
+#include <math.h>
 using namespace std;
 class SoPhuc
 {
 	private:
-		int thuc, ao;
+		double thuc, ao;
 
 	public:
 		void init(int a, int b);

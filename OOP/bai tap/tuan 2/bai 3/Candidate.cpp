@@ -1,36 +1,30 @@
 #include "Candidate.h"
 
 void Candidate::nhap() {
-	Candidate a;
-	BirthDate date;
-	cin.get(mssv, 25);
+	cout << "Nhap ma so sinh vien ";
 	cin.ignore();
-	cin.get(name, 25);
-	cin.ignore();
-	nhapDate(date);
-
-
-
-}
-
-void Candidate::nhapDate(BirthDate& date) {
-	cout << "Nhap ngay : " << endl;
-	cin >> date.day;
-	cout << "Nhap thang : " << endl;
-	cin >> date.month;
-	cout << "Nhap nam : " << endl;
-	cin >> date.year;
-}
-
-void Candidate::nhapDiem() {
-	cout << "Nhap diem toan : " << endl;
+	cin.getline(mssv, 20);
+	cout << "Nhap ten sinh vien ";
+	cin.getline(name, 20);
+	cout << "Nhap ngay thang nam sinh" << endl;
+	cout << "Nhap ngay sinh: ";
+	cin >> date;
+	cout << "Nhap thang sinh: ";
+	cin >> month;
+	cout << "Nhap nam sinh: ";
+	cin >> year;
+	cout << "Nhap diem sinh vien" << endl;
+	cout << "Nhap diem toan: ";
 	cin >> toan;
-	cout << "Nhap diem van : " << endl;
+	cout << "Nhap diem van: ";
 	cin >> van;
-	cout << "Nhap diem anh " << endl;
+	cout << "Nhap diem anh: ";
 	cin >> anh;
+
 }
 
-void Candidate::display() {
-
+void Candidate::TestCandidate() {
+	if (toan + van + anh > 15) {
+		cout << "Sinh vien: " << name << " ma so: " << mssv << endl;
+	}
 }

@@ -34,7 +34,7 @@ void selectionSort(vector<int> &a, int n) {
     for(int i = 0; i < n - 1; i++) {
         minn = i;
         for(int j = i + 1; j < n; j++) {
-            if(a[j] < a[minn]) minn = j;
+            if(a[j] >= a[minn]) minn = j;
         swap(a[i], a[minn]);
         }
     }

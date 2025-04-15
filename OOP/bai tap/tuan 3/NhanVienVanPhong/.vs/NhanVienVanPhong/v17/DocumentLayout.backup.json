@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\NhanVienVanPhong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|solutionrelative:NhanVienVanPhong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|solutionrelative:cNhanVienVP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDC44DCF-4F65-43BE-A7E6-3B0411AE41FB}|NhanVienVanPhong.vcxproj|solutionrelative:cNhanVienVP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cNhanVienVP.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.cpp",
+              "RelativeDocumentMoniker": "cNhanVienVP.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.cpp*",
+              "RelativeToolTip": "cNhanVienVP.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T09:37:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cNhanVienVP.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.h",
+              "RelativeDocumentMoniker": "cNhanVienVP.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\cNhanVienVP.h",
+              "RelativeToolTip": "cNhanVienVP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T09:14:22.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienVanPhong.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\NhanVienVanPhong.cpp",
+              "RelativeDocumentMoniker": "NhanVienVanPhong.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\NhanVienVanPhong\\NhanVienVanPhong.cpp*",
+              "RelativeToolTip": "NhanVienVanPhong.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T09:03:11.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

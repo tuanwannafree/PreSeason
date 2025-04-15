@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|solutionrelative:tamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|solutionrelative:tamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|solutionrelative:toaDo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|solutionrelative:toaDo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\bai01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE9AFA1-3577-4B9B-B68E-194406C74EF9}|bai01.vcxproj|solutionrelative:bai01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "toaDo.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.cpp",
+              "RelativeDocumentMoniker": "toaDo.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.cpp",
+              "RelativeToolTip": "toaDo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T17:34:16.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tamGiac.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.cpp",
+              "RelativeDocumentMoniker": "tamGiac.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.cpp",
+              "RelativeToolTip": "tamGiac.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T18:01:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tamGiac.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.h",
+              "RelativeDocumentMoniker": "tamGiac.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\tamGiac.h",
+              "RelativeToolTip": "tamGiac.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:45:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "toaDo.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.h",
+              "RelativeDocumentMoniker": "toaDo.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\toaDo.h",
+              "RelativeToolTip": "toaDo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:29:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bai01.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\bai01.cpp",
+              "RelativeDocumentMoniker": "bai01.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai01\\bai01.cpp",
+              "RelativeToolTip": "bai01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T16:55:02.098Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

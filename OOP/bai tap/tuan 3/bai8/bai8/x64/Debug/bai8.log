@@ -1,0 +1,23 @@
+﻿  bai8.cpp
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\bai8.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cNhanVienSX.cpp
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(18,72): error C2146: syntax error: missing ')' before identifier 'giaMotSanPham'
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(18,72): error C3646: 'giaMotSanPham': unknown override specifier
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(18,92): error C3646: 'a': unknown override specifier
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(18,93): error C2059: syntax error: ')'
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(22,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.h(18,87): error C2182: 'date': this use of 'void' is not valid
+  (compiling source file 'cNhanVienSX.cpp')
+  
+C:\Learning\PreSeason\PreSeason\OOP\bai tap\tuan 3\bai8\cNhanVienSX.cpp(2,1): error C1004: unexpected end-of-file found
+  Generating Code...

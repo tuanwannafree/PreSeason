@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|solutionrelative:bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|solutionrelative:cNhanVienSX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{123BE960-C174-42C5-A173-DF1BD9A7C500}|bai8.vcxproj|solutionrelative:cNhanVienSX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai8.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\bai8.cpp",
+              "RelativeDocumentMoniker": "bai8.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\bai8.cpp*",
+              "RelativeToolTip": "bai8.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T17:21:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cNhanVienSX.h",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.h",
+              "RelativeDocumentMoniker": "cNhanVienSX.h",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.h*",
+              "RelativeToolTip": "cNhanVienSX.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-29T17:21:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cNhanVienSX.cpp",
+              "DocumentMoniker": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.cpp",
+              "RelativeDocumentMoniker": "cNhanVienSX.cpp",
+              "ToolTip": "C:\\Learning\\PreSeason\\PreSeason\\OOP\\bai tap\\tuan 3\\bai8\\cNhanVienSX.cpp",
+              "RelativeToolTip": "cNhanVienSX.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T17:21:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

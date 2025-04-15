@@ -70,7 +70,7 @@ void ownSort(vector<int> &a) {
 
 int solve(vector<int> a) {
     int n = a.size();
-    ownSort(a);
+    sort(a.begin(), a.end());
     if(n <= 1) {
         return 0;
     }
